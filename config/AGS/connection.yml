@@ -1,0 +1,13 @@
+odbc:
+    dsn: AGSMulti_fly
+    user: ags_user
+    passwprd: sagem5m5
+
+measures:
+    landing_vrtg_max:
+        data_type: float
+        dbv_conf:
+            408:
+                proc: 7500
+                storage: dbstat
+                key: 

@@ -1,0 +1,8 @@
+{
+    "version":"0.1.0",
+    "command":"python",
+    "windows":{
+        "command":"C:/Anaconda2/python.exe"
+    },
+    "args":["test.py"]
+}
